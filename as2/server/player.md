@@ -13,7 +13,7 @@ Sent to all penguins in a room to update a player frame. `sf`
 `%xt%sf%0%123%5%`
 
 ### Send Move
-Sent to all penguins in a room to update a player location. `sm`
+Sent to all penguins in a room to update a player location. `sp`
 
 |Argument|Type|Variadic?|
 |---|---|---|
