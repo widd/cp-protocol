@@ -7,7 +7,10 @@ Sent to all penguins in a room to show a penguin opening their newspaper.
 
 |Argument|Type|Variadic?|
 |---|---|---|
-|penguinID|Integer|No|
+|penguinID|Unsigned integer|No|
+
+##### Example
+`%xt%at%0%123%`
 
 ### Close Newspaper
 Sent to all penguins in a room to show a penguin closing their newspaper.
@@ -15,4 +18,7 @@ Sent to all penguins in a room to show a penguin closing their newspaper.
 
 |Argument|Type|Variadic?|
 |---|---|---|
-|penguinID|Integer|No|
+|penguinID|Unsigned integer|No|
+
+##### Example
+`%xt%rt%0%123%`
