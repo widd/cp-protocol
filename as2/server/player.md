@@ -24,6 +24,18 @@ Sent to all penguins in a room to update a player location.
 ##### Example
 `%xt%sp%0%123%0%0%`
 
+### Send Emote
+Sent to all penguins in a room to show an emote sent by a penguin.
+
+|Argument|Type|Variadic?|
+|---|---|---|
+|penguinID|Unsigned integer|No|
+|Emote ID|Unsigned integer|No|
+
+##### Example
+`%xt%se%0%123%3%`
+
+
 ### Send Message
 Sent to all penguins in a room to show a message sent by a penguin.
 
