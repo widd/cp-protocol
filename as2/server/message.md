@@ -1,9 +1,8 @@
 # Message
 ##### Messages pertaining to sending messages.
 ---
-### Join Server
+### Send Message
 Sent to all penguins in a room to show a message sent by a penguin.
-`at`
 
 |Argument|Type|Variadic?|
 |---|---|---|
