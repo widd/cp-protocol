@@ -35,6 +35,17 @@ Sent to all penguins in a room to show an emote sent by a penguin.
 ##### Example
 `%xt%se%0%123%3%`
 
+### Send Joke
+Sent to all penguins in a room to show a joke sent by a penguin.
+
+|Argument|Type|Variadic?|
+|---|---|---|
+|penguinID|Unsigned integer|No|
+|Joke ID|Unsigned integer|No|
+
+##### Example
+`%xt%sj%0%123%3%`
+
 
 ### Send Message
 Sent to all penguins in a room to show a message sent by a penguin.
@@ -46,3 +57,15 @@ Sent to all penguins in a room to show a message sent by a penguin.
 
 ##### Example
 `%xt%sm%0%123%Hello%`
+
+
+### Send Safe Message
+Sent to all penguins in a room to show a safe message sent by a penguin.
+
+|Argument|Type|Variadic?|
+|---|---|---|
+|penguinID|Unsigned integer|No|
+|Safe Message ID|Unsigned integer|No|
+
+##### Example
+`%xt%ss%0%123%5%`
