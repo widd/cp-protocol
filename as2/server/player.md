@@ -2,7 +2,7 @@
 ##### Messages pertaining to the player actions.
 ---
 ### Send Frame
-Sent to all penguins in a room to update a player frame.
+Sent to all penguins in a room to update a player frame. `sf`
 
 |Argument|Type|Variadic?|
 |---|---|---|
@@ -13,7 +13,7 @@ Sent to all penguins in a room to update a player frame.
 `%xt%sf%0%123%5%`
 
 ### Send Move
-Sent to all penguins in a room to update a player location.
+Sent to all penguins in a room to update a player location. `sm`
 
 |Argument|Type|Variadic?|
 |---|---|---|
@@ -25,7 +25,7 @@ Sent to all penguins in a room to update a player location.
 `%xt%sp%0%123%0%0%`
 
 ### Send Throw Snowball
-Sent to all penguins in a room to show a snowball thrown by a penguin.
+Sent to all penguins in a room to show a snowball thrown by a penguin. `sb`
 
 |Argument|Type|Variadic?|
 |---|---|---|
@@ -38,7 +38,7 @@ Sent to all penguins in a room to show a snowball thrown by a penguin.
 
 
 ### Send Emote
-Sent to all penguins in a room to show an emote sent by a penguin.
+Sent to all penguins in a room to show an emote sent by a penguin. `se`
 
 |Argument|Type|Variadic?|
 |---|---|---|
@@ -49,7 +49,7 @@ Sent to all penguins in a room to show an emote sent by a penguin.
 `%xt%se%0%123%3%`
 
 ### Send Joke
-Sent to all penguins in a room to show a joke sent by a penguin.
+Sent to all penguins in a room to show a joke sent by a penguin. `sj`
 
 |Argument|Type|Variadic?|
 |---|---|---|
@@ -61,7 +61,7 @@ Sent to all penguins in a room to show a joke sent by a penguin.
 
 
 ### Send Message
-Sent to all penguins in a room to show a message sent by a penguin.
+Sent to all penguins in a room to show a message sent by a penguin. `sm`
 
 |Argument|Type|Variadic?|
 |---|---|---|
@@ -73,7 +73,7 @@ Sent to all penguins in a room to show a message sent by a penguin.
 
 
 ### Send Safe Message
-Sent to all penguins in a room to show a safe message sent by a penguin.
+Sent to all penguins in a room to show a safe message sent by a penguin. `ss`
 
 |Argument|Type|Variadic?|
 |---|---|---|
