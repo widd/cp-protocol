@@ -5,7 +5,7 @@
 Sent to the penguin trying to log in to the redemption server to give needed player information. `rjs`
 
 |Argument|Type|Variadic?|Default
-|---|---|---|
+|---|---|---|---
 |Redemeed Books|Unsigned integer|Yes|NULL
 |Unknown & Not Needed|Unsigned integer|No|0
 |Member?|Unsigned integer|No|0
