@@ -24,6 +24,19 @@ Sent to all penguins in a room to update a player location.
 ##### Example
 `%xt%sp%0%123%0%0%`
 
+### Send Throw Snowball
+Sent to all penguins in a room to show a snowball thrown by a penguin.
+
+|Argument|Type|Variadic?|
+|---|---|---|
+|penguinID|Unsigned integer|No|
+|X Postion|Unsigned integer|No|
+|Y Postion|Unsigned integer|No|
+
+##### Example
+`%xt%sb%0%123%0%0%`
+
+
 ### Send Emote
 Sent to all penguins in a room to show an emote sent by a penguin.
 
