@@ -8,4 +8,4 @@ This documentation is separated into __two__ distinct branches/versions:
 __AS2__ and __AS3__ - the names represent the original protocol and when the protocol underwent major changes between 2008 and 2012, respectively.
 
 ### Structure
-The Club Penguin network protocol revolves around a string-based packet format. The server sends extra precursory information with each packet while the client sends (generally) shorter messages in response. The login scheme also makes use of XML for a few initial checks, but the vast majority of network operations use this format (the __game server format__, or __SmartFoxServer format__).
+The Club Penguin network protocol revolves around a string-based packet format. The client sends extra precursory information with each packet while the server sends (generally) shorter messages in response. The login scheme also makes use of XML for a few initial checks, but the vast majority of network operations use this format (the __game server format__, or __SmartFoxServer format__).
