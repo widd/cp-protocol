@@ -8,9 +8,10 @@ Sent to clients when they request their penguin's buddy list.
 
 |Argument|Type|Variadic?|
 |---|---|---|
-|buddies|Array of buddy information; `penguinID|username|onlineStatus`|Yes|
+|buddies|Array of buddy information|Yes|
 
 ##### `buddies` Argument Table
+Format: `penguinID|username|onlineStatus`
 
 |Argument|Type|
 |---|---|
