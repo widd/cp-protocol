@@ -3,6 +3,7 @@
 ---
 ### Join Server
 Sent to the penguin trying to log in to the redemption server to give needed player information. 
+
 `rjs`
 
 |Argument|Type|Variadic?
