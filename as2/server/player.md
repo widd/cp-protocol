@@ -16,6 +16,7 @@ Sent to all penguins in a room to update a player frame.
 
 ### Send Move
 Sent to all penguins in a room to update a player location. 
+The client will animate moving the penguin from positionX to positionY.
 
 `sp`
 
@@ -75,7 +76,6 @@ Sent to all penguins in a room to show a joke said by a penguin.
 ### Send Message
 Sent to all penguins in a room to show a message said by a penguin. 
 
-The client will animate moving the penguin from positionX to positionY.
 `sm`
 
 |Argument|Type|Variadic?|
