@@ -25,13 +25,8 @@ Sent to a penguin to show a specific error.
 |100|Username Not Found|
 |101|Incorrect Password|
 |103|Server full|
-|104|Old Salt Error|
 |130|Password Required|
-|131|Password Short|
-|132|Password Long|
 |140|Name Required|
-|141|Name Short|
-|142|Name Long|
 |150|Login Flooding|
 |200|Player In Room|
 |210|Room Full|
@@ -52,7 +47,6 @@ Sent to a penguin to show a specific error.
 |442|Puffle Limit|
 |500|Already Owns Igloo|
 |501|Already Owns Floor|
-|502|Already Owns Location|
 |601|Ban Duration|
 |602|Ban An Hour|
 |603|Ban Forever|
@@ -73,24 +67,15 @@ Sent to a penguin to show a specific error.
 |999|Not A Member|
 |1000|No Database Connection|
 |10001|No Socket Connection|
-|10002|Timeout|
-|10003|Save Password Prompt|
 |10004|Socket Lost Connection|
-|10005|Load Error|
 |10006|Max Igloo Furniture Error|
-|10007|Multiple Connections|
 |10008|Connection Timeout|
 |10009|Max Stampbook Cover Items|
-|10010|Web Service Load Error|
-|10011|Web Service Load Error|
-|10104|Chrome Mac Login Error|
 |20001|Redemption Connection Lost|
 |20002|Redemption Already Have Item|
 |20103|Redemption Server Full|
 |20140|Name Required Redemption|
-|20141|Name Short Redemption|
 |20130|Password Required Redemption|
-|20131|Password Short Redemption|
 |20710|Redemption Book ID Not Exist|
 |20711|Redemption Book Already Redemeed|
 |20712|Redemption Book Wrong Answer|
