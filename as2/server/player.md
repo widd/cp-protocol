@@ -3,6 +3,7 @@
 ---
 ### Send Frame
 Sent to all penguins in a room to update a player frame. 
+
 `sf`
 
 |Argument|Type|Variadic?|
@@ -15,6 +16,7 @@ Sent to all penguins in a room to update a player frame.
 
 ### Send Move
 Sent to all penguins in a room to update a player location. 
+
 `sp`
 
 |Argument|Type|Variadic?|
@@ -28,6 +30,7 @@ Sent to all penguins in a room to update a player location.
 
 ### Send Throw Snowball
 Sent to all penguins in a room to show a snowball thrown by a penguin. 
+
 `sb`
 
 |Argument|Type|Variadic?|
@@ -42,6 +45,7 @@ Sent to all penguins in a room to show a snowball thrown by a penguin.
 
 ### Send Emote
 Sent to all penguins in a room to show an emote sent by a penguin. 
+
 `se`
 
 |Argument|Type|Variadic?|
@@ -54,6 +58,7 @@ Sent to all penguins in a room to show an emote sent by a penguin.
 
 ### Send Joke
 Sent to all penguins in a room to show a joke said by a penguin. 
+
 `sj`
 
 |Argument|Type|Variadic?|
@@ -67,6 +72,7 @@ Sent to all penguins in a room to show a joke said by a penguin.
 
 ### Send Message
 Sent to all penguins in a room to show a message said by a penguin. 
+
 `sm`
 
 |Argument|Type|Variadic?|
@@ -80,6 +86,7 @@ Sent to all penguins in a room to show a message said by a penguin.
 
 ### Send Safe Message
 Sent to all penguins in a room to show a safe message said by a penguin. 
+
 `ss`
 
 |Argument|Type|Variadic?|
