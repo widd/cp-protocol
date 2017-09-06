@@ -30,6 +30,7 @@ Sent to all penguins in a room to update a player location.
 
 ### Send Throw Snowball
 Sent to all penguins in a room to show a snowball thrown by a penguin. 
+
 The client will animate throwing a snowball from positionX to positionY.
 
 `sb`
@@ -73,6 +74,7 @@ Sent to all penguins in a room to show a joke said by a penguin.
 
 ### Send Message
 Sent to all penguins in a room to show a message said by a penguin. 
+
 The client will animate moving the penguin from positionX to positionY.
 `sm`
 
