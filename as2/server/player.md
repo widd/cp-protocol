@@ -79,7 +79,7 @@ Sent to all penguins in a room to show a message said by a penguin.
 
 
 ### Send Safe Message
-Sent to all penguins in a room to show a safe message sent by a penguin. 
+Sent to all penguins in a room to show a safe message said by a penguin. 
 `ss`
 
 |Argument|Type|Variadic?|
