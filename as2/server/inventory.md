@@ -2,7 +2,7 @@
 ##### Messages that pertain to users' items inventory functions.
 ---
 ### Query Player Awards
-Sent to clients when they request their penguin's awards.
+Sent to clients when they request a penguin's awards.
 
 `qpa`
 
@@ -23,7 +23,7 @@ Format: `awardID|creationDate|memberStatus`
 `%xt%qpa%0%801|1151614800|0%802|1151614800|1%`
 
 ### Query Player Pins
-Sent to clients when they request their penguin's pins.
+Sent to clients when they request a penguin's pins.
 
 `qpp`
 
