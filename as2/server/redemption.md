@@ -6,8 +6,8 @@ Sent to the penguin trying to log in to the redemption server to give needed pla
 
 `rjs`
 
-|Argument|Type|Variadic?|
-|---|---|---|---|
+|Argument|Type|Variadic?
+|---|---|---|
 |redemeedBooks|Unsigned integer array delimited by ","|Yes|
 |Unknown & Not Needed|Unsigned integer|No|
 |member?|Boolean integer (0, 1)|No|
