@@ -2,14 +2,14 @@
 ##### Messages pertaining to the redemption server.
 ---
 ### Join Server
-Sent to the penguin trying to log in to the redemption server to give needed player information. `rjs`
+Sent to the penguin trying to log in to the redemption server to give needed player information. 
+`rjs`
 
-|Argument|Type|Variadic?|Default
+|Argument|Type|Variadic?
 |---|---|---|---
-|Redemeed Books|String|Yes|NULL
-|Unknown & Not Needed|Unsigned integer|No|0
-|Member?|Unsigned integer|No|0
-##### Member? Note:
-Member argument can be either 0 for non-member or 1 for member.
+|redemeedBooks|Unsigned integer array delimited by ","|Yes
+|Unknown & Not Needed|Unsigned integer|No
+|member?|Boolean integer (0, 1)|No
+
 ##### Example
 `%xt%rjs%0%5,7%0%1%`
