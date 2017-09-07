@@ -58,12 +58,14 @@ Sent to clients when they request their penguin's items.
 ### Add Item
 Sent to clients after an item gets added to their penguin's inventory.
 
+The new penguin's coin balance is sent for items that have a cost.
+
 `ai`
 
 |Argument|Type|Variadic?|
 |---|---|---|
 |itemID|Unsigned integer|No|
-|coins|Unsigned integer|No|
+|newCoins|Unsigned integer|No|
 
 ##### Example
 `%xt%ai%0%413%5000%`
